@@ -1,4 +1,12 @@
-### Hi there 👋
+## Hi! Welcome to my Github 🥳 
+<div align="center">
+  <br>
+  <img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="75" height="75">
+</div>
+<p>
+	<img width="50%" align="left" src="https://github-readme-stats.vercel.app/api?username=JinXins&show_icons=true&hide_border=true" />
+  
+</p>
 
 <!--
 **JinXins/JinXins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
