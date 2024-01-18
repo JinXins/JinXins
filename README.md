@@ -1,8 +1,8 @@
 ## Hi! Welcome to my Github 🥳 
 
-- 🔭 I’m currently working on data augmentation and finger vein.
-- 🌱 I’m currently learning data augmentation and compute vision.
-- 📫 How to reach me: 158398730@qq.com use email or *xinxinxinxin_j* use WeChat
+- 🔭 I’m currently working on data augmentation and finger vein identification.
+- 🌱 I’m currently learning data augmentation.
+- 📫 How to reach me: 158398730@qq.com use Email or *xinxinxinxin_j* use WeChat.
 - 😄 Pronouns: I am seeking opportunities for visiting students in computer vision lab. In the meantime, you are more than welcome to discuss Data Augmentation related ideas or questions with me.
 
 <div align="center">
