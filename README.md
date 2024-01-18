@@ -1,5 +1,5 @@
 ## Hi! Welcome to my Github 🥳 
-Hi, I`m Xin Jin. A Master's Degree Candidate at Chongqing Technology and Business University. Currently, I`m focus on Mixup data augmentation and vein identification. Meanwhile, I am looking for visiting students in computer vision.
+Hi, I'm Xin Jin. A Master's Degree Candidate at Chongqing Technology and Business University. Currently, I'm focus on Mixup data augmentation and vein identification. Meanwhile, I am looking for visiting students in computer vision.
 - 🔭 I’m currently working on data augmentation and finger vein identification.
 - 🌱 I’m currently learning data augmentation.
 - 📫 How to reach me: 158398730@qq.com use Email or *xinxinxinxin_j* use WeChat.
