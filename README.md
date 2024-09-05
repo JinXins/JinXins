@@ -1,16 +1,12 @@
 ## Hi! Welcome to my Github 🥳 
 Hi, I'm Xin Jin. A Master's Degree Candidate at Chongqing Technology and Business University. Currently, I'm focus on Mixup data augmentation and vein identification. Meanwhile, I am seeking visiting students in the computer vision lab.
-- 🔭 I’m currently working on data augmentation and finger vein identification.
-- 📫 How to reach me: You can drop me email 158398730@qq.com, jinxin20001118@163.com or WeChat me *xinxinxinxin_j*.
+- 🔭 I’m currently working on **Data Augmentation (Mixup)** and **Vein Identification (Palm-Vein)**.
+- 📫 How to reach me: You can drop me email **158398730@qq.com, jinxin20001118@163.com** or WeChat me **xinxinxinxin_j**.
 - 😄 Pronouns: I am seeking opportunities for visiting students in computer vision lab. In the meantime, you are more than welcome to discuss Data Augmentation related ideas or questions with me.
 
-<div align="center">
-  <br>
-  <img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="75" height="75">
-</div>
 <p>
 	<img width="50%" align="left" src="https://github-readme-stats.vercel.app/api?username=JinXins&show_icons=true&hide_border=true" />
-  
+	<img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="75" height="75" />
 </p>
 
 <!--
