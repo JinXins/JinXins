@@ -1,6 +1,7 @@
 ## Hi! Welcome to my Github 🥳 
 Hi, I'm Xin Jin. A final year master student at Chongqing Technology and Business University. Currently, I'm focus on Computer Vision, Biometric and Data augmentation. Meanwhile, I am seeking a Phd position.
 - 🔭 I’m currently working on **Data Augmentation (Mixup)** and **Vein Identification (Palm-Vein)**.
+- 🌱 I’m currently learning **Multi-Modal Large Language Model (MLLM)** and **Large Language Model (LLM)**.
 - 📫 How to reach me: You can drop me email **jinxin20001118@163.com**.
 - 😄 Pronouns: I am seeking opportunities for PhD position in computer vision or data-centric tasks. In the meantime, you are more than welcome to discuss Data Augmentation related ideas or questions with me.
 
