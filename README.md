@@ -1,5 +1,5 @@
 ## Hi! Welcome to my Github 🥳 
-Hi, I'm Xin Jin. A research assistant at ``Westlake University``. I got my master degree from ``Chongqing Technology and Business University``, and got my bachelor degree from ``Pass Collage of Chongqing Technology and Business University``.
+Hi, I'm Xin Jin. A research assistant at ``Westlake University``. I got my master's degree from ``Chongqing Technology and Business University``, and got my bachelor's degree from the ``Pass College of Chongqing Technology and Business University``.
 - 🔭 I’m currently working on **Data Augmentation (Mixup)** and **Vein Identification (Palm-Vein)**.
 - 🌱 I’m currently learning **Multi-Modal Large Language Model (MLLM)** and **Large Language Model (LLM)**.
 - 📫 How to reach me: You can drop me email **jinxin20001118@163.com**.
