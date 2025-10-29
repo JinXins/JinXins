@@ -2,7 +2,7 @@
 Hi, I'm Xin Jin. A research assistant at ``Westlake University``. I got my master's degree from ``Chongqing Technology and Business University``, and got my bachelor's degree from the ``Pass College of Chongqing Technology and Business University``.
 - 🔭 I’m currently working on **Data Augmentation (Mixup)** and **Vein Identification (Palm-Vein)**.
 - 🌱 I’m currently learning **Multi-Modal Large Language Model (MLLM)** and **Large Language Model (LLM)**.
-- 📫 How to reach me: You can drop me email **jinxin20001118@163.com**.
+- 📫 How to reach me: You can drop me email **jinxin86@westlake.edu.cn**.
 - 😄 Pronouns: I am seeking opportunities for PhD position in computer vision or data-centric tasks. In the meantime, you are more than welcome to discuss Data Augmentation related ideas or questions with me.
 
 <p>
