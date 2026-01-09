@@ -1,26 +1,7 @@
-## Hi! Welcome to my Github 🥳 
-Hi, I'm Xin Jin. A research assistant at ``Westlake University``. I got my master's degree from ``Chongqing Technology and Business University``, and got my bachelor's degree from the ``Pass College of Chongqing Technology and Business University``.
-- 🔭 I’m currently working on **Data Augmentation (Mixup)** and **Vein Identification (Palm-Vein)**.
-- 🌱 I’m currently learning **Multi-Modal Large Language Model (MLLM)** and **Large Language Model (LLM)**.
-- 📫 How to reach me: You can drop me email **jinxin86@westlake.edu.cn**.
-- 😄 Pronouns: I am seeking opportunities for PhD position in computer vision or data-centric tasks. In the meantime, you are more than welcome to discuss Data Augmentation related ideas or questions with me.
+## Hi! Welcome to my GitHub 🥳
 
-<p>
-	<img width="50%" align="left" src="https://github-readme-stats.vercel.app/api?username=JinXins&show_icons=true&hide_border=true" />
-	<img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="75" height="75" />
-</p>
+Hi, I'm Xin Jin, a Research Assistant at **Westlake University**. I received my Master's degree from **Chongqing Technology and Business University** and my Bachelor's degree from the **Pass College of Chongqing Technology and Business University**.
 
-<!--
-**JinXins/JinXins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m interested in **Data Augmentation (Mixup)** and **Vein Identification (Palm-Vein)** research during 2022–2025. Currently, I’m exploring **MLLMs/LLMs**, with a focus on building efficient AI systems from both data-centric and model-centric perspectives. My goal is to develop scalable, robust, and efficient AI pipelines.
+- 📫 How to reach me: **jinxin86@westlake.edu.cn**
+- 😄 Pronouns: I am seeking PhD opportunities in computer vision or data-centric AI. Meanwhile, feel free to discuss Data Augmentation ideas or questions with me.
